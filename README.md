@@ -1,0 +1,3 @@
+# MicroServices led approach to Infrastructure Management
+
+To achieve faster application delivery, the right tools must be used in DevOps environments. There is no single tool that fits all the needs such as server provisioning, configuration management, automated builds, code deployments, and monitoring. Many factors determine the use of a particular tool in your infrastructure. Installing and configuring each and every tool is a tough and time-consuming task. In this project we aim to provide an automated platform via the use of microservices and client-server architecture, that will provide a user with the infrastructure (i.e. DevOps tools) necessary to fulfill their task without any need of configuration or changes in their system.
