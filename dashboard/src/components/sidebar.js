@@ -15,10 +15,10 @@ class Sidebar extends React.Component{
                         <hr />
                     </header>
                     <ul>
-                        <li><a href="#"><HomeIcon />  Home</a></li>
-                        <li><a href="#"><InfoIcon />  About</a></li>
-                        <li><a href="#"><BuildIcon />  Maven</a></li>
-                        <li><a href="#"><BugReportIcon />  SonarQube</a></li>
+                        <li><a href="/"><HomeIcon />  Home</a></li>
+                        <li><a href="/about"><InfoIcon />  About</a></li>
+                        <li><a href="/maven"><BuildIcon />  Maven</a></li>
+                        <li><a href="/sonar"><BugReportIcon />  SonarQube</a></li>
                     </ul>
                 </div>
         )

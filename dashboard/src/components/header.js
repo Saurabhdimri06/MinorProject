@@ -10,8 +10,8 @@ class Header extends React.Component{
                 <img src={Logo} alt="Logo" height="80px" width="90px"></img>
                 <p>GODOps</p>
                 <ul>
-                    <li><a href="#"><HomeIcon /></a></li>
-                    <li><a href="#"><InfoIcon /></a></li>
+                    <li><a href="/"><HomeIcon /></a></li>
+                    <li><a href="/about"><InfoIcon /></a></li>
                 </ul>
             </div>
         )
